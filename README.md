@@ -1,5 +1,13 @@
 <h1 align="center">AI NoCode Automation Suite</h1>
 
+## Project Overview:
+This project is a comprehensive no-code automation and AI integration suite designed for entrepreneurs, freelancers, and small businesses looking to streamline workflows, save time, and build scalable systems without writing a single line of code. Built around tools like Zapier, Make, Pabbly, and OpenAI, it empowers users to connect APIs, automate repetitive tasks, and monetize automation services—fast. Whether you're scraping emails, summarizing them with GPT, or triggering Slack alerts, this suite shows you how to do it all—visually and profitably.
+
+## Core Features:
+- **No-Code Simplicity Meets AI Power:** Build complex automations using visual builders like Zapier + OpenAI—no dev needed.
+- **Monetizable Workflows & Template:** sEverything’s built to sell—from client projects to pre-made templates.
+- **Business-Ready Integrations:** Gmail, Google Sheets, Slack, OpenAI, Notion, and thousands of other tools—fully supported.
+
 <div align="center">
   <img
     src="https://github.com/user-attachments/assets/d200549d-7613-446f-a43b-19a4117ca360"
@@ -62,14 +70,6 @@
 <span>
 
 <div align="left">
-
-## Project Overview:
-This project is a comprehensive no-code automation and AI integration suite designed for entrepreneurs, freelancers, and small businesses looking to streamline workflows, save time, and build scalable systems without writing a single line of code. Built around tools like Zapier, Make, Pabbly, and OpenAI, it empowers users to connect APIs, automate repetitive tasks, and monetize automation services—fast. Whether you're scraping emails, summarizing them with GPT, or triggering Slack alerts, this suite shows you how to do it all—visually and profitably.
-
-## Core Strengths:
-- **No-Code Simplicity Meets AI Power:** Build complex automations using visual builders like Zapier + OpenAI—no dev needed.
-- **Monetizable Workflows & Template:** sEverything’s built to sell—from client projects to pre-made templates.
-- **Business-Ready Integrations:** Gmail, Google Sheets, Slack, OpenAI, Notion, and thousands of other tools—fully supported.
 
 ## Features List:
 | **Feature**                    | **Description**                                                              |
